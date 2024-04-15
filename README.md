@@ -17,9 +17,5 @@ class Route(Resource):
 
 Replace the 'Hello, World!' with whatever you want.
 
-<details>
-<summary>Here is a detailed explanation of how to contribute</summary>
-<br>
-
-</details>
+[Click here for detailed explanation](https://scribehow.com/shared/Adding_your_own_endpoint_for_the_workshop__gUkmt_zsSyakKU-pqajSSA)
 
