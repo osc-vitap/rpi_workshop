@@ -21,7 +21,10 @@
 
 <script>
 	document.getElementById('btn').addEventListener('click', () => {
-		fetch('')
+		const inp = document.getElementById('inp').value
+		const url = ''
+
+		fetch(`${url}/${inp}`)
 		.then(res => res.json())
 		.then(data => {
 			document.getElementById('output').innerText = data
